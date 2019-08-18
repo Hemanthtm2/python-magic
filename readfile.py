@@ -9,3 +9,5 @@ myfile.seek(0)
 contents=myfile.read()
 
 print(contents)
+
+print(myfile.readline())
